@@ -6,6 +6,8 @@ public class Main {
 		int[] array = {3, 4, 5, 10};
 		
 		System.out.println(Somar.somatorio(array));
+		
+		System.out.println(RaizQuadrada.calcular((double) 9));
 	}
 
 }
