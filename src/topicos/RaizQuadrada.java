@@ -1,4 +1,4 @@
-package java;
+package topicos;
 
 public class RaizQuadrada {
 	
