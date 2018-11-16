@@ -10,6 +10,8 @@ public class RaizQuadrada {
 		if (num == 0)
 			return num;
 		
+		System.out.println("Tchubiruba");
+		
 		return Math.sqrt(num);
 	}
 
